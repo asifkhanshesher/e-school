@@ -1,0 +1,243 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+}
+
+.hg {
+    min-height: 80vh;
+    align-items: center;
+}
+
+.btn-signin {
+    background-color: rgb(33, 181, 115);
+    color: rgb(255, 255, 255);
+    border-radius: 25px;
+    padding: 5px 15px;
+    font-family: Poppins;
+}
+
+.btn-signin:hover {
+    background-color: rgb(13, 122, 73);
+    color: rgb(255, 255, 255);
+}
+
+.navbar-nav {
+    align-items: center;
+}
+
+.nav-link {
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    margin-left: 7px;
+    margin-right: 7px;
+    font-family: Poppins;
+}
+
+.nav-link:hover {
+    color: rgb(251, 209, 91);
+}
+
+header h3 {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: Poppins;
+    color: rgb(253, 81, 26);
+}
+
+header h1 {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 70px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+}
+
+header h1 span {
+    color: rgb(33, 181, 115);
+}
+
+header p {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 30px;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+}
+
+.features_section {
+}
+
+.feature {
+    text-align: center;
+    background: azure;
+    padding: 40px 0px;
+    border-radius: 10px;
+}
+
+.feature img {
+    width: 65px;
+    margin-bottom: 25px;
+}
+
+.feature h2 {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: rgb(65, 57, 96);
+    font-family: 'Poppins';
+}
+
+.feature p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    font-family: 'Poppins';
+    color: rgb(88, 88, 89);
+}
+
+.feature:hover {
+    background: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 40px;
+    border-radius: 10px;
+}
+
+.Online_Courses h1 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    color: rgb(65, 57, 96);
+    padding: 40px 0px;
+    font-family: 'Poppins';
+}
+
+.course {
+    padding: 20px;
+    background: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 40px;
+    border-radius: 15px;
+}
+
+.course img {
+}
+
+.course h2 {
+    font-weight: 500;
+    font-size: 24px;
+    color: rgb(65, 57, 96);
+    line-height: 36px;
+    font-family: 'Poppins';
+}
+
+.course p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgb(88, 88, 89);
+    font-family: 'Poppins';
+}
+
+.course a {
+}
+
+.course ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.course ul li {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgb(88, 88, 89);
+    margin-top: 20px;
+    font-family: 'Poppins';
+    text-align: center;
+}
+
+.course ul li i {
+    margin-right: 7px;
+    color: rgb(33, 181, 115);
+}
+
+.Testimonial h1 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    font-family: 'Poppins';
+    color: rgb(0, 0, 0);
+    margin-top: 40px;
+}
+
+.test {
+    margin-bottom: 35px;
+}
+
+.client {
+    width: 35%;
+    margin: auto;
+}
+
+.client img {
+    width: 100px;
+}
+
+.Testimonial p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: rgb(0, 0, 0);
+    margin-left: -30px;
+    font-family: 'Poppins';
+}
+
+footer {
+    background: rgb(40, 37, 49);
+    color: rgb(255, 255, 255);
+    padding: 40px;
+}
+
+footer p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    font-family: 'Poppins';
+    color: rgb(255, 255, 255);
+}
+
+footer ul {
+    list-style: none;
+    font-family: 'Poppins';
+}
+
+footer ul li {
+    font-weight: 400;
+}
+
+footer ul li:first-child {
+    font-weight: 700;
+}
+
+footer h5 {
+    margin: 30px 0px -15px;
+    padding: 0px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Poppins';
+    line-height: 30px;
+    color: rgb(205, 205, 205);
+}
+
+footer h5 span {
+    color: rgb(13, 122, 73);
+    font-weight: 700;
+}
